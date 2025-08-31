@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "MyHorrorFont";
-  src: url("fonts/AnkhSanctuary-PVK0B.ttf") format("truetype");
+  src: url("../fonts/AnkhSanctuary-PVK0B.ttf") format("truetype");
 }
 
 *,
