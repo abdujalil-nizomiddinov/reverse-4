@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "MyHorrorFont";
+  src: url("fonts/AnkhSanctuary-PVK0B.ttf") format("truetype");
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  user-select: none;
+  color: lime;
+  font-family: "MyHorrorFont", monospace;
+  outline: none;
+}
+.loading {
+  color: #fff;
+}
+body {
+  background: #000;
+  cursor: url("cursor.png"), auto;
+}
