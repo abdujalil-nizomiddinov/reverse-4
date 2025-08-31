@@ -19,5 +19,5 @@
 }
 body {
   background: #000;
-  cursor: url("cursor.png"), auto;
+  cursor: url("../cursor.png"), auto;
 }
